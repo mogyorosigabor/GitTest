@@ -2,3 +2,7 @@ html, body {
     font-family: 'Verdana';
     font-size: 14pt;
 }
+
+img {
+    pointer-events: none;
+}
